@@ -43,3 +43,4 @@ while True:
     except Exception as e:
         print(f"Ошибка: {e}. Перезапуск через 15 секунд...")
         time.sleep(15)
+
